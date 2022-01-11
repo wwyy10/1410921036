@@ -1,0 +1,65 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">    <!-- 表頭區 -->
+    <header class="header-area">
+      <!-- Search Form -->
+      <!-- Main Header Start -->
+      <div class="main-header-area">
+        <div class="classy-nav-container breakpoint-off">
+          <div class="container" style="height: 64px;">
+            <!-- Classy Menu -->
+            <nav class="classy-navbar justify-content-between" id="robertoNav" style="height: 64px;">
+              <!-- Logo -->
+              <a class="nav-brand" href="../index.html">頂好傢俱</a>
+              <!-- Navbar Toggler -->
+              <div class="classy-navbar-toggler"> <span class="navbarToggler"><span></span><span></span><span></span></span></div>
+              <!-- Menu -->
+              <div class="classy-menu">
+                <!-- Menu Close Button -->
+                <div class="classycloseIcon">
+                  <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                </div>
+                <!-- Nav Start -->
+                <div class="classynav">
+                  <ul id="nav">
+                    <li class="active"><a href="../index.html">首頁</a></li>
+                    <li><a href="../livivngroom_prolist.html">客廳</a>
+                      <ul class="dropdown">
+                        <li><a href="../sofa.html">沙發</a></li>
+                        <li><a href="../coffee_table.html">茶几</a></li>
+                        <li><a href="#">鞋櫃</a></li>
+                        <li><a href="../cabinet.html">電視櫃</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#">臥室</a>
+                      <ul class="dropdown">
+                        <li><a href="#">化妝台</a></li>
+                        <li><a href="#">衣櫃</a></li>
+                        <li><a href="#">床組</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#">廚房</a>
+                      <ul class="dropdown">
+                        <li><a href="#">餐桌/椅</a></li>
+                        <li><a href="#">餐櫃</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#">書房</a>
+                      <ul class="dropdown">
+                        <li><a href="#">書櫃/架</a></li>
+                        <li><a href="#">書桌</a></li>
+                      </ul>
+                    </li>
+                    <li class="active"><a href="../question.html">常見問題</a></li>
+                  </ul>
+                  <!-- Search -->
+                  <!-- Book Now -->
+                </div>
+                <!-- Nav End -->
+              </div>
+            </nav>
+          </div>
+        </div>
+      </div>
+		<header class="class-1 class-2 my-header"></header>
+		<header class="my-header"></header>
+    </header>
+    <!-- 表頭區 End -->
